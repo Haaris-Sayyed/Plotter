@@ -8,17 +8,6 @@ It also provides some basic features to fetch useful information
 from dataset.
 
 ---
-
-## Demo
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="img/1.jpg">
-    <source src="img/demo.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
----
 ## Contents
 - [Getting Started](#getting-started)
 - [How to run the project?](#how-to-run-the-project)
