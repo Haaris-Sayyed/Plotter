@@ -11,10 +11,10 @@ from dataset.
 ## Contents
 - [Getting Started](#getting-started)
 - [How to run the project?](#how-to-run-the-project)
-- [Create symbolic link to the executable file](#Create-symbolic-link-to-the-executable-file)
-- [ A Note about ```/``` for Windows Users](#A-Note-about-/-for-Windows-Users)
+- [Create symbolic link to the executable file](#create-symbolic-link-to-the-executable-file)
+-  A Note about ```/``` for Windows Users
 - [Usage](#usage)
-- [Contributing](#🤝contributing)
+- Contributing
 ---
 ## Getting Started
 
@@ -98,22 +98,22 @@ On Windows Powershell, these substitutions are not required.
  You need to click on the buttons highlighted in the following pictures to perform the mentioned operations.
 
  ### 1.Selecting a CSV Dataset
- ![](img/1.jpg)
+ ![](img/1.png)
  
- ### 2.Selecting a CSV Dataset
- ![](img/2.jpg)
+ ### 2.Selecting required plot-type and columns
+ ![](img/2.png)
 
  ### 3.Plot the data
- ![](img/3.jpg)
+ ![](img/3.png)
 
  ### 4.Display data from chosen dataset
- ![](img/4.jpg)
+ ![](img/4.png)
 
  ### 5.Display description of numerical data from chosen dataset
- ![](img/5.jpg)
+ ![](img/5.png)
 
  ### 6.Display information about chosen dataset
- ![](img/6.jpg)
+ ![](img/6.png)
 
 
  
