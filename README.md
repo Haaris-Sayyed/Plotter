@@ -1,6 +1,7 @@
 # PLOTTER
 
- Plotter is a python GUI application built using **tkinter** module .
+# DEMO : https://mk-knight23.github.io/Plotter
+Plotter is a python GUI application built using **tkinter** module .
 It enables user to select a **.csv** dataset from local file directories
 and provides a feature to plot data from selected set using 3
 different plot types.
